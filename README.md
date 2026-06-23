@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there 👋, I'm Mick
 
-<!--
-**Isaac123r/Isaac123r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student majoring in Cybersecurity with a passion for software development, technology, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that solve real-world problems while developing my skills in web development, cybersecurity, and software engineering.
+
+## 🔭 Currently Working On
+
+* Personal software development projects
+* Cybersecurity skill development
+* Learning modern web and mobile technologies
+* Building my portfolio and GitHub presence
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+* Java
+* JavaScript
+* Python
+* C++
+* SQL
+
+### Web Development
+
+* React
+* Node.js
+* Express
+* HTML
+* CSS
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Linux
+* MongoDB
+* MySQL
+
+### Areas of Interest
+
+* Cybersecurity
+* Web Development
+* Mobile Development
+* Cloud Technologies
+* Artificial Intelligence
+
+## 📚 Currently Learning
+
+* Advanced Cybersecurity Concepts
+* Network Security
+* Penetration Testing
+* React Native
+* Cloud Security
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: https://linkedin.com/in/yourprofile
+* Email: [your.email@example.com](mailto:your.email@example.com)
+
+## ⚡ Fun Fact
+
+When I'm not coding, you'll probably find me exploring streetwear fashion, attending events around Melbourne, or working on new project ideas.
