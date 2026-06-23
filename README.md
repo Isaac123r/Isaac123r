@@ -57,9 +57,8 @@ I enjoy building projects that solve real-world problems while developing my ski
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/malual-malual-4b3451301/)
+* Email: malualamada@gmail.com
 
 ## ⚡ Fun Fact
 
